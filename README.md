@@ -23,19 +23,19 @@ Code examples for uploading to Arduino Board. Used sensors : 1 potentiometer, 1 
 
 **B_p5js**
 Codes receiving data from 1 sensor into the web browser. Edit the *sketch.js* file for customizing.
- - B_A_Receive_from_1_sensor
+ - B_A_Receive_from_1_sensor : 
 Codes receiving data from 1 sensor into the web browser.
-<br>B_A_A_on-off
+<br>B_A_A_on-off : 
 Codes for switch button or on/off sensor.
-<br> B_A_B_values
+<br> B_A_B_values : 
 Codes for potentiometer, photocell or sensor sending several numbered values.
- - B_B_Receive_from_2_sensors
+ - B_B_Receive_from_2_sensors : 
 Codes receiving data from 2 sensors into the web browser.
-<br>B_B_A_on-off
+<br>B_B_A_on-off : 
 Codes for 2 switch buttons or on/off sensors.
-<br>B_B_B_values
+<br>B_B_B_values : 
 Codes for 2 potentiometers, 2 photocells or 2 sensors sending several numbered values.
- - B_C_Canvas_presentation
+ - B_C_Canvas_presentation : 
  Extra examples for presenting your sketches (fullscreen, web page centered, …).
  
 **C_Mes_Projets**
